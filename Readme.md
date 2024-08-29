@@ -159,4 +159,3 @@
   
 
 ![Image](./set%20vs%20array.png_large)
-![Image](./sets-vs-maps.png)
